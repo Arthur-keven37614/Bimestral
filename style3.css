@@ -1,0 +1,25 @@
+
+body{
+    background-image: url("/img/Ferrari.jpg");
+}
+body {
+    font-family: 'Arial', sans-serif;
+    color: #fff7f7;
+    line-height: 1.6;
+}
+
+.center{
+    text-align: center;
+}
+#h2{
+    text-align: center;
+}
+#car{
+    color: black;
+}
+#h11{
+    color: black;
+}
+#ferrari{
+    text-align: center;
+}
