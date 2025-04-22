@@ -1,0 +1,9 @@
+/* Botões */
+.btn {
+    background-color: #ff1100;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
